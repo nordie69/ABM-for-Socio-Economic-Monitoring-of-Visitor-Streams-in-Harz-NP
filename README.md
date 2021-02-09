@@ -1,6 +1,6 @@
 # ABM for Socio-Economic Monitoring of Visitor Streams in Harz NP
 
-![License][license-badge]][license-url]
+[License][license-badge]][license-url]
 [![Issues][issues-badge]][issues-url]
 
 [issues-badge]: https://img.shields.io/github/issues/ZGIS/spatial-simulation.svg?style=flat-square
