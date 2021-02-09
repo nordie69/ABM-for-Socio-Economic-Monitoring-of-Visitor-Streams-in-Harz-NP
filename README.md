@@ -56,7 +56,7 @@ Figure 3 shows an Entity Relationship Diagram (ERD) to illustrate the relationsh
 
 ![ERD illustrating the relationships between the entities](https://github.com/nordie69/ABM-for-Socio-Economic-Monitoring-of-Visitor-Streams-in-Harz-NP/blob/main/figures/Fig5_ERD.jpg "ERD illustrating the relationships between the entities") 
  
-Figure 5: ERD illustrating the relationships between the entities
+Figure 3: ERD illustrating the relationships between the entities
 
 ## Emergence
 The spatio-temporal distribution of the groups of hikers in the study area represents the essential emergent variable of the model. This determines the usage of the paths and the number of visitors encountered at the POIs and cannot be determined beforehand. The distribution of nature-oriented hikers is not determined deterministically, due to how they select paths.
@@ -113,4 +113,6 @@ Figure 4: Sub-model of the state transitions of groups of hikers
 # Example of results
 For the whole study area, the annual sum of visitors is 1,515,464, with a concentration of 561,702 (about 37.1%) at the Brocken. 389,613 people (about 69.4%) travel using the Brocken Railway, and 172,089 (about 30.6%) hike to the Brocken. Thus, there is a spatial concentration of visitors in the area around the Brocken in the central part of the study area, which can be examined in more detail (see Figure 5). This concentration is primarily in the Scharf-enstein, Torfhaus, Schierke and Hohne areas. Noticeable in this context is the area to the east of the Brocken, which receives a comparatively small number of visitors. One of the main causes is the difficulty for hikers of finding a suitable starting point, as this eastern area is furthest away from points of entry to the National Park.
 
-![Overall result of spatial distrbution of hikers](https://github.com/nordie69/ABM-for-Socio-Economic-Monitoring-of-Visitor-Streams-in-Harz-NP/blob/main/figures/Fig7_Result_Overall_spatial_distribution.jpg "Overall result of spatial distrbution of hikers") 
+![Overall result of spatial distribution of hikers](https://github.com/nordie69/ABM-for-Socio-Economic-Monitoring-of-Visitor-Streams-in-Harz-NP/blob/main/figures/Fig7_Result_Overall_spatial_distribution.jpg "Overall result of spatial distrbution of hikers") 
+
+Figure 4: Example of results: Overall result of spatial distribution of hikers
