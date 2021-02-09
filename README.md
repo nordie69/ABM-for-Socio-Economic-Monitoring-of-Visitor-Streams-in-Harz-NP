@@ -24,9 +24,28 @@ Simulation generated output of the results from the ABM will be placed here. Act
 ### Directory figures
 Contains some figures for these README files and explanations. You don't need it for sunning the simulation code.
 
-### Other sources for the code
+## Other sources for this code
 The code of the model has also been published at the CoMSES / OpenABM network: https://www.comses.net/codebases/6014/releases/1.0.0/
 
 ## Introduction
 The Harz National Park offers with 813 km a well-developed path network as well as a high number of starting and destination points (POIs) for hikes, and was visited by some 1.7 million visitors in 2014. Due to its large extent, an accurate measurement of visitor numbers and their spatiotemporal distribution is not feasible. This work demonstrates the possibility to simulate the streams of visitors around Mt. Brocken with the agent-based model (ABM) methodology. The GAMA v1.7 RC2 modelling environment was chosen, because it has very extensive spatial operators and simulation tasks, combined with an easy-to-understand modelling language. To reduce the simulation effort, a model reduction factor MRF = 10 was tested successfully and used without any significant change to the model. After an initial parameterization, a sensitivity analysis was conducted with the results included in the final calibration. The observed error value could be significantly reduced from RMSE_Param=0,3817 to RMSE_Kalib=0,1069 and therefore the model was successfully adapted to the study area. For the final validation visitor numbers from other, independent investigations were used. Besides the identified 12 main routes and 7 hotspots not only basic socioeconomic indicators were provided, but also the change of behaviour of hikers following a variation of framework conditions was analyzed, thus demonstrating the impact of currently implemented measures to reduce path density. The final result is a flexible and expandable baseline model, which provides a realistic picture of the spatial distribution of hikers in the study area and additional socioeconomic key figures.
+
+![alt Study area for the ABM](https://github.com/nordie69/ABM-for-Socio-Economic-Monitoring-of-Visitor-Streams-in-Harz-NP/blob/main/figures/Fig3_Study_area.jpg "Study area for the ABM")
+
+
+
+# Short ODD protocol for the model
+
+
+
+
+
+
+
+
+
+
+
+
+
 
