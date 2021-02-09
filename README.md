@@ -11,10 +11,14 @@ This agent-based model (ABM) is written in GAMA. To run this code you need GAMA 
 Includes all necessary data (e.g. shapefiles).
 
 ### Directory models
-Main program directory. There is only one file with all subroutines together.
+Main program directory. There is only one file `Harz National Park Hikers.gaml` with all subroutines together.
 
 ### Directory tests
 Several tests and code snippets which have been used during the development of this ABM.
 
 ### Directory output
 Simulation generated output of the results from the ABM will be placed here. Actually there are no files in here, because you havent't run any simulation now.
+
+### Directory figures
+Contains some figures for these README files and explanations. You don't need it for sunning the simulation code.
+
