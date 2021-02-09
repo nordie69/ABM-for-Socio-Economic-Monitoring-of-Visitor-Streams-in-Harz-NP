@@ -32,7 +32,7 @@ The Harz National Park offers with 813 km a well-developed path network as well 
 
 ![Study area for the ABM](https://github.com/nordie69/ABM-for-Socio-Economic-Monitoring-of-Visitor-Streams-in-Harz-NP/blob/main/figures/Fig3_Study_area.jpg "Study area for the ABM")
 
-*Fig.1: Study area Harz National Park for this ABM*
+*Figure 1: Study area Harz National Park for this ABM*
 
 
 # Short ODD protocol for the model
