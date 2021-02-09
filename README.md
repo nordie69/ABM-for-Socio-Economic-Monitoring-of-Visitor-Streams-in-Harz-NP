@@ -17,4 +17,4 @@ Main program directory. There is only one file with all subroutines together.
 Several tests and code snippets which have been used during the development of this ABM.
 
 ### Directory output
-Simulation generated output of the results from the ABM will be placed here. Actually there are no files in here, becacause you havent't run any simulation now.
+Simulation generated output of the results from the ABM will be placed here. Actually there are no files in here, because you havent't run any simulation now.
